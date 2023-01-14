@@ -14,4 +14,5 @@ begin up_down=1'b1;#400; up_down=1'b0;#1000; end
 always
 begin
 clk = 1'b0;#10; clk = 1'b1;#10; end endmodule
+//can you explain code
  
